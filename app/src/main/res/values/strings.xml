@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intenciones Implicitas</string>
+    <string name="boton1">Navegar Web</string>
+    <string name="boton2">Ver Mapa</string>
+    <string name="boton3">Buscar en mapa</string>
+    <string name="boton4">Llamar a teléfono</string>
+    <string name="boton5">Marcar teléfono</string>
+    <string name="boton6">Tomar foto</string>
+    <string name="boton7">Enviar correo</string>
+    <string name="boton8">Mostrar contactos</string>
+    <string name="boton9">Prueba</string>
+</resources>
